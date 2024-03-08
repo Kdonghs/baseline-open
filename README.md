@@ -16,7 +16,7 @@ java 17
 <br>mysql 8
 
 # 수정해야할 파일
-cms-credentials.json
+firebase_credentials.json
 <br>index.html
 <br>SignupController.java
 <br>application.properties
